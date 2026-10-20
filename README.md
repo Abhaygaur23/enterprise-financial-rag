@@ -1,3 +1,4 @@
+
 # Enterprise Financial Intelligence RAG
 
 A resume-ready RAG application for financial/enterprise document research.
@@ -81,3 +82,4 @@ Ask:
 Push this repository to GitHub and deploy it with Streamlit Community Cloud.
 
 Add the same values from `secrets.toml` in the deployment Secrets field.
+
