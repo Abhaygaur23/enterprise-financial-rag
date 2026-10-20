@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What was the company's revenue in the latest annual report?",
+    "ground_truth": "Fill this after selecting your benchmark document."
+  },
+  {
+    "question": "Why did operating profit change?",
+    "ground_truth": "Fill this after selecting your benchmark document."
+  },
+  {
+    "question": "Compare revenue growth between two uploaded reports.",
+    "ground_truth": "Fill this after selecting your benchmark documents."
+  }
+]
